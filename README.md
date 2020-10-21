@@ -36,4 +36,4 @@ I WANT a README generator
 SO THAT can quickly create a professional README for a new project
 ```
 
-![Alt text](/asset/screenshot.jpg?raw=true "Terminal Example")
+![image](/asset/Screenshot.png?raw=true "Terminal Example")
